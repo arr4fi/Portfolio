@@ -60,5 +60,5 @@ Tableau:
 # Group Project
 When I enrolled in Full Stack Data Analytics Program at Revou, I act as Project Leader to lead my group implement skills that have been thought and preparing ourselves to be the real Data Analytics team.
 
-Pitching Deck: [Spotify - Pitching Deck](https://drive.google.com/file/d/12rjF2yQ1uqA3mKkIt3Mpqq8_ts4go437/view?usp=sharing)
+Pitching Deck: [Spotify - Pitching Deck](https://drive.google.com/file/d/12rjF2yQ1uqA3mKkIt3Mpqq8_ts4go437/view?usp=sharing)  
 Google Colab: [Spotify - Data Analysis](https://colab.research.google.com/drive/1n8w1LaD2JG9bhZzH_uZGZF7XQrNesLjj?usp=sharing)
