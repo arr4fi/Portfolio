@@ -53,6 +53,7 @@ Google Data Studio:
 - [Airbnb dashboard](https://datastudio.google.com/reporting/c7c117c0-f1e6-4bd3-a985-07283cb2736b)
 
 Tableau:
+- [Tableau Public Profile](https://public.tableau.com/app/profile/faris.arrafi/vizzes)
 - [Airbnb dashboard](https://public.tableau.com/app/profile/faris.arrafi/viz/AirbnbAnalysisDashboard_16693803004180/Dashboard1)
 - [Covid-19 Vaccination Progress](https://public.tableau.com/app/profile/faris.arrafi/viz/COVID-19VaccinationProgress_16693804348330/DashboardCovid19VaccinationProgress)
 - [Spotify Dashboard](https://public.tableau.com/app/profile/faris.arrafi/viz/SpotifyAnalysisDashboard-MusicConsultant/Dashboard1)
